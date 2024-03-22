@@ -19,9 +19,6 @@
  </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/ayrton-senna-moura-6291a216a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -37,7 +34,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,tailwind&theme=dark&perline=5" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,figma,docker,vscode,codepen,git,github,npm,linux,debian,ubuntu&theme=dark&perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,figma,docker,vscode,codepen,git,github,npm,linux,debian,ubuntu&theme=dark&perline=11" /><br>
 </div>
 
 <br/>
