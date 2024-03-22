@@ -1,12 +1,55 @@
-### Olá! Eu sou o Ayrton Senna.👋
-Atualmente estou estudando design grafíco e consiliando com o estudo de programação. Faz cerca de uns 3 meses que estou estudando de forma dedicada em busca de aprimorar minhas habilidades e me tornar um desenvolvedor (Estou escrevendo isso em Março de 2023).
-### Tecnologias que estou aprendendo👾👨‍💻
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayrton+Senna🔥!;+Welcome+to+my+profile!💻;" />
+</h1>
+
+<h3 align="center">A passionate Front-End Wizard</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Educational Software**
+ 
+ 🌱 I’m currently learning **Docker, Next.Js, CodeIgniter** 
+
+⚡ Fun fact **The Wild West movies were not actually filmed on USA deserts, it was actually in north spain.**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="ayrton.senna.moura@Gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" />
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" />
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,typescript,sass,nodejs,&theme=dark&perline=7" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,tailwind&theme=dark&perline=5" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=mysql,figma,docker,vscode,codepen,git,github,npm,linux,debian,ubuntu&theme=dark&perline=6" /><br>
+</div>
+
+<br/>
+<hr/>
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<hr/>
+
+<br/>
+
+<br/>
